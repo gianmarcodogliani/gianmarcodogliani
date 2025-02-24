@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **gianmarcodogliani/gianmarcodogliani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🚀 Passionate about **[Your Interests, e.g., Web Development, AI, etc.]**  
 -->
+
+### Hi there, I'm Gianmarco 👋
+
+🎓 **Master’s graduate in Electronic Engineering from the Polytechnic of Turin**  
+💼 Currently working at **Artedas**, a Cadence Channel Partner, as an **Application Engineer**  
+📍 Based in **Turin**
