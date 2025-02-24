@@ -4,9 +4,7 @@
 💼 Currently working at **Artedas Italia** as an **Application Engineer**  
 📍 Based in **Turin**, Italy
 
-
-
-
+<br>
 
 ### 💼 Professional Experience
 
