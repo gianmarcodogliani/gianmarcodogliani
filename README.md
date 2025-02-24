@@ -13,9 +13,7 @@
 - Developing **Tcl/Tk Scripting** of custom add-ons to optimize design workflows 
 - Leading onsite and online corporate trainings and workshops on related topics
 
-
-
-
+<br>
 
 ### 🎓 Academic Experience
 **Master’s in Electronic Engineering/Embedded Systems** @ Polytechnic of Turin
