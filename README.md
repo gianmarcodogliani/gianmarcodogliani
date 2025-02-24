@@ -1,9 +1,11 @@
 ### Hi there, I'm Gianmarco 👋
 
-🎓 **Master’s graduate in Electronic Engineering from the Polytechnic of Turin**  
+🎓 **Master’s graduate in Electronic Engineering from the Polytechnic of Turin** 
+
 💼 Currently working at **Artedas Italia** as an **Application Engineer** 
 
 💻 A tech enthusiast passionate about **ASIC/FPGA design** and **scripting**
+
 📍 Based in **Turin**, Italy
 
 <br>
