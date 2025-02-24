@@ -3,7 +3,7 @@
 
 🎓 **Master’s graduate in Electronic Engineering from the Polytechnic of Turin**   
 💼 Currently working at **Artedas Italia** as an **Application Engineer**  
-💻 A tech enthusiast, passionate about **ASIC/FPGA** cutting-edge solutions  
+💻 A tech enthusiast, passionate about **ASIC/FPGA** design of cutting-edge solutions  
 📍 Based in **Turin**, Italy  
 
 <br>
