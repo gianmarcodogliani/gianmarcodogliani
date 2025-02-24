@@ -1,7 +1,7 @@
 ### Hi there, I'm Gianmarco 👋
 
 🎓 **Master’s graduate in Electronic Engineering from the Polytechnic of Turin**  
-💼 Currently working at **Artedas** as an **Application Engineer**  
+💼 Currently working at **Artedas Italia** as an **Application Engineer**  
 📍 Based in **Turin**, Italy
 
 
