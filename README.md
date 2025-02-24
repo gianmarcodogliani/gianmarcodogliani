@@ -12,8 +12,8 @@
 
 **Application Engineer** @ Artedas (Cadence Channel Partner)  
 - Providing technical support in the usage of Cadence tools for **PCB Design and Analysis**  
-- Developing **Tcl/Tk Scripts** for custom add-ons to enhance design workflows
-- Leading onsite and online corporate trainings and workshops on related topics
+- Developing **Tcl/Tk** and **SKILL Scripts** for custom add-ons to enhance design workflows
+- Leading onsite and online corporate trainings programs and workshops on related topics
 
 <br>
 
