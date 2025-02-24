@@ -19,7 +19,7 @@
 
 ### 🎓 Academic Experience
 **Master’s in Electronic Engineering/Embedded Systems** @ Polytechnic of Turin
-- **RTL Description**, **Synthesis** and **Physical Design** of custom digital systems architectures
+- **RTL Description**, **Synthesis** and **Physical Design** of digital systems architectures
 - Thesis: **Development of a medical wearable device for the self monitoring of CVDs**
 
 <br>
