@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Gianmarco 👋
 
 🎓 **Master’s graduate in Electronic Engineering from the Polytechnic of Turin**  
-💼 Currently working at **Artedas** as an **Application Engineer**  
+💼 Working at **Artedas** as an **Application Engineer**  
 📍 Based in **Turin**
 
 
