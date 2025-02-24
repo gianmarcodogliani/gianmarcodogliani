@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓 **Master’s graduate in Electronic Engineering from the Polytechnic of Turin**  
 💼 Working at **Artedas** as an **Application Engineer**  
-📍 Based in **Turin**
+📍 Based in **Turin**, Italy
 
 
 <!--
