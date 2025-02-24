@@ -5,6 +5,7 @@
 📍 Based in **Turin**, Italy
 
 
+
 ### 💼 Professional Experience
 
 **Application Engineer** @ Artedas (Cadence Channel Partner)  
@@ -13,12 +14,12 @@
 - Lecturer for corporate trainings and workshops
 - Post layout analysis services  
 
-<!--
+
+
 ### 🎓 Academic Experience
-RTL Description, Logic Synthesis and Physical Design of custom digital systems architecture
-- **Master’s in Electronic Engineering** @ Polytechnic of Turin  
-  - Specialized in **Embedded Systems & Digital Signal Processing**  
-  - Thesis: **[Thesis Title]** (focused on **[Key Research Area]**)  
+**Master’s in Electronic Engineering - Embedded Systems** @ Polytechnic of Turin
+- Focus on RTL Description, Synthesis and Physical Design of custom digital systems architecture
+- Thesis: **Development of a medical wearable device for the self monitoring of CVDs**
 <!--
 - **Research Assistant** @ [University Lab/Project]  
   - Worked on **FPGA-based system design** for high-speed applications  
