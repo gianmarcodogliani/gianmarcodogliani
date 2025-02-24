@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 📍 Based in **Turin**, Italy
 
 
-<!--
 ### 💼 Professional Experience
 
 - **Application Engineer** @ Artedas (Cadence Channel Partner)  
-  - Supporting clients with **PCB Design & Electronic Simulation** solutions  
-  - Providing technical training on **Cadence design tools**  
-  - Assisting in troubleshooting and optimizing electronic design workflows  
+  - Technical support in the usage of Cadence tools for **PCB Design and Analysis**  
+  - **Tcl/Tk Scripting** of custom add-ons to optimize design workflow  
+  - Lecturer for corporate trainings and workshops  
 
+<!--
 - **Internship in Embedded Systems** @ [Previous Company/Institution]  
   - Developed firmware for **microcontrollers** in C/C++  
   - Conducted signal processing for **sensor-based applications**  
