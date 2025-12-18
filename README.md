@@ -11,7 +11,7 @@
 
 **Sr Application Engineer** @ Cadence Design Systems / Stockholm  
 - Providing technical support in the usage of Cadence tools for **Multiphysics System Analysis**  
-- Delivering **SI**, **PI**, and **EMC** analysis services for **PCB/IC signoff**
+- Delivering **SI**, **PI**, and **EMC** analysis services for **PCB/IC Packages signoff**
 
 **Application Engineer** @ Artedas Italia / Turin  
 - Providing technical support in the usage of Cadence tools for **PCB Design and Analysis**  
