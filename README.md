@@ -1,8 +1,8 @@
-### Hej Hej, I'm Gianmarco 👋
+### Hej, I'm Gianmarco 👋
 <br>
 
 🎓 **Master’s graduate in Electronic Engineering from the Polytechnic of Turin**   
-💼 Currently working at **Cadence Design Systems** as a **Sr Application Engineer**    
+💼 Currently working at **Cadence Design Systems** as **Sr Application Engineer**    
 📍 Based in **Stockholm**, Sweden  
 
 <br>
